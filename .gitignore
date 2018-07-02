@@ -1,0 +1,7 @@
+# VS Code
+.vscode
+
+# Binary and build folders
+*/build
+*/bin
+**/Debug
